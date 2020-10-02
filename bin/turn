@@ -8,7 +8,11 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 turn(board)
 
+<<<<<<< HEAD
 puts = "Where would you like to go?"
+=======
+def valid_move?(board, index)
+>>>>>>> f921546bbc428207b319dd4efc05320cc24c3218
 
 
 
